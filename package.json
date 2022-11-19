@@ -1,0 +1,13 @@
+{
+  "name": "stylelint-scss-operator-no-unspaced-issue",
+  "version": "1.0.0",
+  "private": true,  
+  "scripts": {
+    "test": "stylelint test.scss"
+  },  
+  "license": "ISC",
+  "dependencies": {
+    "stylelint": "^14.15.0",
+    "stylelint-scss": "^4.3.0"
+  }
+}
